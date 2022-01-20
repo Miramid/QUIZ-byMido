@@ -1,0 +1,29 @@
+.cvb {
+    width: 100%;
+}
+
+.btn-circle {
+    cursor: pointer;
+    border-radius: 50%;
+    padding: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+#fiftyFifty >p {
+    margin: 10px 0 0 0;
+}
+
+#timerDiv {
+    cursor: auto;
+    padding-top: 15px;
+}
+
+.fa-thumbs-up {
+    color: green;
+    font-size: 1.3rem;
+}
+.fa-thumbs-down {
+    color: red;
+    font-size: 1.3rem;
+}
